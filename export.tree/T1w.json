@@ -1,0 +1,11 @@
+{
+	"RepetitionTime": 2.3,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Verio MR",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "MPRAGE",
+	"EchoTime": 0.00197,
+	"FlipAngle": 9,
+	"InstitutionName": "Scientific Imaging & Brain Research Center at Carnegie Mellon University"
+
+}

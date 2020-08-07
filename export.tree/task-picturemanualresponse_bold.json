@@ -1,0 +1,13 @@
+{
+	"TaskName": "picture manual response",
+	"TaskDescription": "picture presentation with manual response when fixation cross changed color",
+	"RepetitionTime": 2,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Verio MR",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "T2*-weighted echoplanar",
+	"EchoTime": 0.029,
+	"FlipAngle": 79,
+	"InstitutionName": "Scientific Imaging & Brain Research Center at Carnegie Mellon University"
+
+}
